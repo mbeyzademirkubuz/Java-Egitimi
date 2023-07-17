@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JavaCourse
+Bundle-SymbolicName: JavaCourse
+Bundle-Version: 1.0.0.qualifier
+Automatic-Module-Name: JavaCourse
+Bundle-RequiredExecutionEnvironment: JavaSE-17
